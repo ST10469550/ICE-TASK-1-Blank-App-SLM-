@@ -1,3 +1,7 @@
+GITHUB LINK:
+https://github.com/ST10469550/ICE-TASK-1-Blank-App-SLM-
+https://github.com/ST10469550/ICE-TASK-1-Blank-App-SLM-/edit/main/README.md#L1C0
+
 APP GOAL
 -The goal was to create a simple React Native component that greets the user by name, using input provided through a TextInput field. The initial challenge was ensuring the dynamic input updated correctly and rendered the greeting in real time.
 
